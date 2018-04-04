@@ -35,3 +35,5 @@ For example:
 `C:\Users\caoa\Box Sync\CMISST\subversion\build_dataset_scripts\trunk`
 
 You may need to restart Python after changing the contents of `additional_import_paths.pth`.
+
+**Note:** No need to add this file to your PATH
